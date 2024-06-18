@@ -9,7 +9,7 @@ eureka:
 
 
 microservice:
-    payment-service:
-        endpoints:
-            endpoint:
-                uri:http://localhost:8765/payment/test
+  payment-service:
+    endpoints:
+      endpoint:
+        uri: http://localhost:8765/payment/test
